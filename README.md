@@ -13,7 +13,9 @@ Editar as tarefas
 Excluir as tarefas
 Concluir as tarefas
 
-Para utilizar de forma local será necessário usar o banco de dados PostgreSQL.
+Para utilizar de forma local será necessário usar o banco de dados PostgreSQL, pois foi especificado no persistence.xml que ele é o banco utilizado.
+Caso deseje se conectar a outro modelo de banco, pode fazer a alteração nesse arquivo e rodar como desejar.
+
 
 
 
